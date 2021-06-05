@@ -30,8 +30,3 @@ When brought back online:
 # Lincense
 
 - MIT
-
-## Hint
-
-- In order to cache dynamic content, i.e. users' inputs for withdrawals or deposits, incorporate `indexedDB` from the previous module.
-- Use [Google](https://www.google.com) or another search engine to research this topic.
